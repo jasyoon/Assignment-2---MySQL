@@ -18,10 +18,10 @@
 8. `README.md`
 
 ## Additional Notes
-- `assignment2_DDL.sql` must be imported first and includes the necessary procedures for the assignment.
-- Other SQL files can be imported subsequently, providing the required data for testing.
-- Input validation for the menu requires entering a valid number without spaces.
-  - Input is taken as a string to avoid integer input validation issues.
-- Invalid inputs in the procedure options will output an error and continue the program.
-- If an error occurs early in the program, all other fields must still be entered to proceed.
+- `assignment2_DDL.sql` must be imported first. It should also include the 2 necessary procedures for the assignment
+- all the other sql files can be imported after which include the data that I used to test the assignment
+- I sort of scuffed my way through input validation for the menu; a valid number with no spaces must be inputted
+    - I made the input be a string and not an int to get around needing to check if the input was an integer
+- when doing an invalid input on the two procedure options, it should continue the program but output the error
+    - if you mess up in the beginning though, you still need to input all other fields to continue
 
