@@ -1,0 +1,12 @@
+INSERT INTO assignment2.Customers (CustomerID, CustomerName, ContactName, Address, City, PostalCode, Country) VALUES (1, 'Eco Shopper', 'Alice Johnson', '789 Eco Ave', 'EcoTown', 'ET789', 'EcoCountry');
+INSERT INTO assignment2.Customers (CustomerID, CustomerName, ContactName, Address, City, PostalCode, Country) VALUES (2, 'Green Buyer', 'Bob Brown', '321 Green St', 'EcoVille', 'EV321', 'EcoLand');
+INSERT INTO assignment2.Customers (CustomerID, CustomerName, ContactName, Address, City, PostalCode, Country) VALUES (3, 'Eco 2', 'Billy Johnson', '789 Eco Ave', 'EcoTown', 'ET789', 'EcoCountry');
+INSERT INTO assignment2.Customers (CustomerID, CustomerName, ContactName, Address, City, PostalCode, Country) VALUES (4, 'Green Buyer2', 'Joe Brown', '321 Green St', 'EcoVille', 'EV321', 'EcoLand');
+INSERT INTO assignment2.Customers (CustomerID, CustomerName, ContactName, Address, City, PostalCode, Country) VALUES (5, 'Eco Enthusiast', 'Catherine Green', '543 Nature Lane', 'GreenVista', 'GV543', 'EcoLand');
+INSERT INTO assignment2.Customers (CustomerID, CustomerName, ContactName, Address, City, PostalCode, Country) VALUES (6, 'Organic Living', 'Daniel Eco', '876 Green Blvd', 'EcoTopia', 'ET876', 'EcoNation');
+INSERT INTO assignment2.Customers (CustomerID, CustomerName, ContactName, Address, City, PostalCode, Country) VALUES (7, 'Green Solutions', 'Eva Green', '234 Eco Road', 'EcoCity', 'EC234', 'EcoWorld');
+INSERT INTO assignment2.Customers (CustomerID, CustomerName, ContactName, Address, City, PostalCode, Country) VALUES (8, 'Sustainable Living', 'Frank Green', '987 Nature St', 'GreenVille', 'GV987', 'Greenland');
+INSERT INTO assignment2.Customers (CustomerID, CustomerName, ContactName, Address, City, PostalCode, Country) VALUES (9, 'Eco Harmony', 'Grace Eco', '456 Eco Avenue', 'EcoVista', 'EV456', 'EcoLand');
+INSERT INTO assignment2.Customers (CustomerID, CustomerName, ContactName, Address, City, PostalCode, Country) VALUES (10, 'GreenTech Enthusiasts', 'Henry Green', '765 Green Way', 'EcoTopia', 'ET765', 'EcoNation');
+INSERT INTO assignment2.Customers (CustomerID, CustomerName, ContactName, Address, City, PostalCode, Country) VALUES (11, 'EcoFriendly Living', 'Ivy Green', '234 Green Lane', 'EcoCity', 'EC234', 'EcoWorld');
+INSERT INTO assignment2.Customers (CustomerID, CustomerName, ContactName, Address, City, PostalCode, Country) VALUES (12, 'Green Futures', 'Jack Green', '876 Nature Blvd', 'GreenVille', 'GV876', 'Greenland');
